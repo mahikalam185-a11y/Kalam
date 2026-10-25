@@ -1,0 +1,6 @@
+{
+  "name": "NetSeva Cyber Cafe & CSC Digital Seva Suite",
+  "description": "Comprehensive Indian cyber cafe and Common Service Centre (CSC) business software for PAN card with photo upload, Aadhaar & Voter PVC orders, customer Khata ledger, rate chart, and PC browsing sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
